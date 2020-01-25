@@ -5,7 +5,6 @@
 ### Category Name 1 
 
 [Photos](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
