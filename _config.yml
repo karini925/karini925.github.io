@@ -1,11 +1,7 @@
 title: Karina Isaev # your name (or website title) here
 logo: "/images/WhatsApp Image 2020-01-25 at 1.12.40 PM.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Computational biologist currently studying Lymphoma. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
