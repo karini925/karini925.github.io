@@ -1,14 +1,21 @@
-## Portfolio
+## Categories
 
 ---
 
-### Category Name 1 
+### Photography
 
 [Photos](/sample_page)
 
 ---
 
-### Category Name 2
+### Science (in progress)
+
+- [Projects](/sample_page)
+- [Cancer primer](/sample_page)
+
+---
+
+### Fun data science exercises (in progress) 
 
 - [Analysis of Oscar winners](http://example.com/)
 
