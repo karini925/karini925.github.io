@@ -10,14 +10,14 @@
 
 ### Science (in progress)
 
-- [Projects](/Projects)
+- [Projects](/Projects.md)
 - [Cancer primer](/sample_page)
 
 ---
 
 ### Fun data science exercises (in progress) 
 
-- [Analysis of Oscar winners](/Oscars_analysis)
+- [Analysis of Oscar winners](/Oscars_analysis.md)
 
 ---
 
