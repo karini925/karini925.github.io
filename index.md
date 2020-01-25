@@ -10,7 +10,7 @@
 
 ### Science (in progress)
 
-- [Projects](/sample_page)
+- [Projects](/Projects.md)
 - [Cancer primer](/sample_page)
 
 ---
