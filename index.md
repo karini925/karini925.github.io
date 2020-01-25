@@ -4,7 +4,7 @@
 
 ### Photography
 
-[Photos](/sample_page)
+[Photos](/https://karinisaev.pb.online/)
 
 ---
 
