@@ -17,7 +17,7 @@
 
 ### Fun data science exercises (in progress) 
 
-- [Analysis of Oscar winners](http://example.com/)
+- [Analysis of Oscar winners](/Oscars_analysis)
 
 ---
 
