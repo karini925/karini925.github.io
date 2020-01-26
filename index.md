@@ -2,12 +2,6 @@
 
 ---
 
-### Photography
-
-- [Photos](https://karinisaev.pb.online/)
-
----
-
 ### Science (in progress)
 
 - [Projects](/Projects.md)
@@ -18,6 +12,12 @@
 ### Fun data science exercises (in progress) 
 
 - [Analysis of Oscar winners](/Oscars_analysis.md)
+
+---
+
+### Photography
+
+- [Photos](https://karinisaev.pb.online/)
 
 ---
 
