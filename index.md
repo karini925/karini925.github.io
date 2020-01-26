@@ -21,6 +21,16 @@
 
 ---
 
+### Reading list (in progress) 
 
+- [Books](/Oscars_analysis.md)
+
+---
+
+### Blog (in progress) 
+
+- [How it all began](/Oscars_analysis.md)
+
+---
 
 
