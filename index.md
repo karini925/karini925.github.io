@@ -21,7 +21,7 @@
 
 ---
 
-### Reading list (in progress) 
+### Reading list 
 
 - [Books](/Books.md)
 
