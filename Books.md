@@ -1,17 +1,23 @@
-###Reading List 2019
+## Reading List: 
 
-##1. The Year of the Death of Ricardo Reis by Jose Saramago
+## 2019
 
-##2.
+### 1. The Year of the Death of Ricardo Reis by Jose Saramago
 
-##3.
+### 2. The Handmaid's Tale by Margaret Atwood
 
-##4.
+### 3. The Testaments by Margaret Atwood
 
-##5. The Handmaid's Tale by Margaret Atwood
+### 4. If on a winter's night a traveler by Calvino, Italo
 
-##6. The Testaments by Margaret Atwood
+### 5. The remains of the day / Kazuo Ishiguro
 
-##7.
+### 6. Haunting Paris / by Mamta Chaudhry
 
-###Reading List 2020
+### 7. Goodbye, Columbus, and five short stories
+
+## 2020
+
+### 1. Turbulence / David Szalay
+
+### 2. The World That We Knew: A Novel Hardcover by Alice Hoffman
