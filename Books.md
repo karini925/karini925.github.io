@@ -20,4 +20,4 @@
 
 1. Turbulence / David Szalay
 
-2. The World That We Knew: A Novel Hardcover by Alice Hoffman
+2. The World That We Knew by Alice Hoffman
