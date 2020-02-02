@@ -23,7 +23,7 @@
 
 ### Reading list (in progress) 
 
-- [Books](/Oscars_analysis.md)
+- [Books](/Books.md)
 
 ---
 
