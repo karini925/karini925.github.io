@@ -11,7 +11,7 @@
 
 ### Fun data science exercises (in progress) 
 
-- [Analysis of Oscar winners](/Oscars_analysis.md)
+- [Predicting blood cell types from gene expression](/Oscars_analysis.md)
 
 ---
 
@@ -24,12 +24,6 @@
 ### Reading list 
 
 - [Books](/Books.md)
-
----
-
-### Blog (in progress) 
-
-- [How it all began](/Oscars_analysis.md)
 
 ---
 
