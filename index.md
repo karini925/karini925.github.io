@@ -15,6 +15,12 @@
 
 ---
 
+### Blog 
+
+- [Living through the COVID-19 epidemic](https://medium.com/@lostanonym/life-as-we-knew-it-140a4c68d58a)
+
+---
+
 ### Photography
 
 - [Photos](https://karinisaev.pb.online/)
