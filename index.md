@@ -9,21 +9,16 @@
 
 ---
 
-### Fun data science exercises (in progress) 
-
-- [Predicting blood cell types from gene expression](/Oscars_analysis.md)
-
----
-
 ### Blog 
 
-- [Living through the COVID-19 epidemic](https://medium.com/@lostanonym/life-as-we-knew-it-140a4c68d58a)
+- [Living through the COVID-19 pandemic](https://medium.com/@lostanonym/life-as-we-knew-it-140a4c68d58a)
 
 ---
 
-### Photography
+### Fun 
 
-- [Photos](https://karinisaev.pb.online/)
+- [My photos](https://karinisaev.pb.online/)
+- [My take on cancer on Statistically Insignificant's podcast](https://bioeconometrician.github.io/sipod_karin/) 
 
 ---
 
