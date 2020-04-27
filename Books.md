@@ -21,3 +21,9 @@
 1. Turbulence / David Szalay
 
 2. The World That We Knew by Alice Hoffman
+
+3. Supermarket by Logic 
+
+4. Serotonin Michel Houellebecq
+
+5. The Goldfinch by Donna Tartt
