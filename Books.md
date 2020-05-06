@@ -10,15 +10,13 @@
 
 4. If on a winter's night a traveler by Calvino, Italo
 
-5. The remains of the day / Kazuo Ishiguro
+5. The remains of the day by Kazuo Ishiguro
 
-6. Haunting Paris / by Mamta Chaudhry
-
-7. Goodbye, Columbus, and five short stories
+6. Goodbye, Columbus, and five short stories by Philip Roth 
 
 ## 2020
 
-1. Turbulence / David Szalay
+1. Turbulence by David Szalay
 
 2. The World That We Knew by Alice Hoffman
 
@@ -27,3 +25,5 @@
 4. Serotonin Michel Houellebecq
 
 5. The Goldfinch by Donna Tartt
+
+6. Haunting Paris by by Mamta Chaudhry
