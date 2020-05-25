@@ -27,3 +27,9 @@
 5. The Goldfinch by Donna Tartt
 
 6. Haunting Paris by by Mamta Chaudhry
+
+7. The Year of the Flood by Margaret Atwood
+
+8. Franny and Zooey by by J. D. Salinger
+
+9. Currently reading Cancer Ward by Aleksandr Solzhenitsyn
