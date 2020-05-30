@@ -2,10 +2,10 @@
 
 ---
 
-### Science (in progress)
+### Science 
 
-- [Projects](/Projects.md)
-- [Cancer primer](/sample_page)
+- [Projects (in progress)](/Projects.md)
+- [Publications](https://scholar.google.ca/citations?hl=en&user=q5Hzub8AAAAJ&view_op=list_works&gmla=AJsN-F7Ww91657WqQMFZkjErV-KoSTYNNChzOplXUi3FDtmZyf7dQ1ibSJ5NFxzzaXRYHr9iwfBH_eTovv9vnjfDvyCWcn0-Z97ViwNRuGLV8NsNWtAVHtI)
 
 ---
 
