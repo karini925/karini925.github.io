@@ -21,7 +21,7 @@
 
 - [My photos](https://karinisaev.pb.online/)
 - [My take on cancer on Statistically Insignificant's podcast](https://bioeconometrician.github.io/sipod_karin/) 
-- [Analysis of CO2 emissions data](https://rpubs.com/karini925/677455)
+- [Analysis of CO2 emissions data (fun work in progress)](https://rpubs.com/karini925/677455)
 
 ---
 
