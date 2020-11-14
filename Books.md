@@ -32,4 +32,8 @@
 
 8. Franny and Zooey by by J. D. Salinger
 
-9. Currently reading Cancer Ward by Aleksandr Solzhenitsyn
+9. Cancer Ward by Aleksandr Solzhenitsyn
+
+10. Dear Life by Alice Munro (short stories)
+
+11. Currently reading American Pastoral by Philip Roth 
