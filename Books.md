@@ -36,4 +36,8 @@
 
 10. Dear Life by Alice Munro (short stories)
 
-11. Currently reading American Pastoral by Philip Roth 
+11. American Pastoral by Philip Roth 
+
+12. The Gene by Siddhartha Mukherjee
+ 
+
