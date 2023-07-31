@@ -22,7 +22,7 @@
 
 ### Fun 
 
-- [My photos](https://karinisaev.pb.online/)
+- [My photos](https://kisaev.com)
 - [My take on cancer on Statistically Insignificant's podcast](https://bioeconometrician.github.io/sipod_karin/) 
 
 ---
