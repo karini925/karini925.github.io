@@ -1,6 +1,10 @@
-# Lymphoma research 
+# RNA splicing projects in the Knowles lab 
 
-From May 2019 to July 2021, I worked in [Dr. Robert Kridel's](http://kridel-lab.ca/) lab at [UHN](https://www.uhnresearch.ca/institutes/pm), Toronto. There, I contributed to several manuscripts focused primarily on functional genomics research in Lymphoma. For example, I created a [shiny based website](https://lymphoma.shinyapps.io/NHL-ASCT-PI/) to visualize a patient risk model that combines the PET-CT scan based Deauville score and other clinical risk factors.
+We just released a new R package called Isoviz that allows users to clearly visualize splice junctions across transcript isoforms expressed in their cell line of interest. Several visualizations are available as well as a function to design gRNA sequences to target junctions of interest with CRISPR/Cas13 using our lab's deep learning model [TIGER](https://www.nature.com/articles/s41587-023-01830-8). 
+
+### Isoviz R package 
+
+[https://github.com/daklab/isoviz](https://github.com/daklab/isoviz). A more in depth tutorial to come! Find the pre-print [here]().  
 
 # Course projects @ Columbia PhD program 
 
@@ -13,3 +17,7 @@ Here are some class projects that I have worked on so far:
 ### Protein sequence-based pathogen assembly from RNA-seq
 
 [https://github.com/karini925/VORF](https://github.com/karini925/VORF)
+
+# Lymphoma research 
+
+From May 2019 to July 2021, I worked in [Dr. Robert Kridel's](http://kridel-lab.ca/) lab at [UHN](https://www.uhnresearch.ca/institutes/pm), Toronto. There, I contributed to several manuscripts focused primarily on functional genomics research in Lymphoma. For example, I created a [shiny based website](https://lymphoma.shinyapps.io/NHL-ASCT-PI/) to visualize a patient risk model that combines the PET-CT scan based Deauville score and other clinical risk factors.
