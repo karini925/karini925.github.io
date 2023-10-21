@@ -12,6 +12,10 @@
 
 ---
 
+### Teaching 
+
+---
+
 ### Blog 
 
 - [Pandemic memories](https://medium.com/@lostanonym/life-as-we-knew-it-140a4c68d58a) (March, 2020)
