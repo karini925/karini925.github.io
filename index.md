@@ -4,6 +4,7 @@
 
 ### Science +
 
+- [Presentations](Presentations.md)
 - [Projects](Projects.md)
 - [Publications](https://scholar.google.ca/citations?hl=en&user=q5Hzub8AAAAJ&view_op=list_works&gmla=AJsN-F7Ww91657WqQMFZkjErV-KoSTYNNChzOplXUi3FDtmZyf7dQ1ibSJ5NFxzzaXRYHr9iwfBH_eTovv9vnjfDvyCWcn0-Z97ViwNRuGLV8NsNWtAVHtI)
 - [Resources (links I have found to be useful)](https://github.com/karini925/computational_intro/blob/main/resources.md)
