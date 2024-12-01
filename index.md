@@ -30,7 +30,7 @@ Life
 
 ### Fun 
 
-- [My photography](https://kisaev.com)
+- [My photography](photography.md)
 - [My take on cancer on Statistically Insignificant's podcast](https://bioeconometrician.github.io/sipod_karin/) 
 
 ---
