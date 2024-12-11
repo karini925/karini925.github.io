@@ -2,6 +2,10 @@
 
 ---
 
+### About me 
+- You can find my CV [here](https://drive.google.com/file/d/1gIrJ4beW_pfd69vZmEHowDRdlwtu0oY9/view?usp=sharing).
+
+
 ### Science +
 
 - [Presentations](Presentations.md)
