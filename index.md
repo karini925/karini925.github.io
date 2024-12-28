@@ -31,12 +31,13 @@ Life
 - [Pandemic memories](https://medium.com/@lostanonym/life-as-we-knew-it-140a4c68d58a) (March, 2020)
 - [Hiking state of mind](https://medium.com/@lostanonym/hiking-state-of-mind-59e13046ba4f?sk=6933c933f6402e42ad9d8f209abc7d13) (April, 2020)
 - [A personal review of 2022](https://medium.com/@lostanonym/a-personal-review-of-2022-65c4dea2529f) (December, 2022)
+- [Goobye 2024](https://medium.com/@lostanonym/goodbye-2024-29a0fc3164ae) (December, 2024)
 
 ---
 
 ### Fun 
 
-- [My photography](photography.md)
+- [My photography (in progress, migrating to a new venue)](photography.md)
 - [My take on cancer on Statistically Insignificant's podcast](https://bioeconometrician.github.io/sipod_karin/) 
 
 ---
