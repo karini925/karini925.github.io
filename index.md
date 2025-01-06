@@ -24,9 +24,9 @@
 ### Blog 
 Science related
 - [From Linear Regression to Variational Inference](https://dramatic-napkin-b57.notion.site/Variational-inference-tutorial-03d7220759f14627989a8f7b8ad1b0ec) (Feb, 2024 *note: still editing*)
-- [A paper a week challenge](*coming soon...*)
+- [A paper a week challenge](https://geekygenomics.substack.com/)(*coming soon...*)
 
-Life 
+Life / Personal 
 - [Pandemic memories](https://medium.com/@lostanonym/life-as-we-knew-it-140a4c68d58a) (March, 2020)
 - [Hiking state of mind](https://medium.com/@lostanonym/hiking-state-of-mind-59e13046ba4f?sk=6933c933f6402e42ad9d8f209abc7d13) (April, 2020)
 - [A personal review of 2022](https://medium.com/@lostanonym/a-personal-review-of-2022-65c4dea2529f) (December, 2022)
