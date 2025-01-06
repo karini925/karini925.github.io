@@ -38,7 +38,8 @@ Life
 ### Fun 
 
 - [My photography (in progress, migrating to a new venue)](photography.md)
-- [My take on cancer on Statistically Insignificant's podcast](https://bioeconometrician.github.io/sipod_karin/) 
+- [My take on cancer on Statistically Insignificant's podcast](https://bioeconometrician.github.io/sipod_karin/)
+- [Sagrada Score Calculator](https://karini925.github.io/Sagrada-Score-Calculator/)
 
 ---
 
