@@ -41,8 +41,9 @@ Life / Personal
 
 ---
 
-### Reading list 
+### Reading / Watch list 
 
 - [Books](https://www.goodreads.com/user/show/128238315-karina-isaev)
+- [Movies](https://letterboxd.com/karini925/)
 
 ---
