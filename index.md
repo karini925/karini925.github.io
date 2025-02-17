@@ -35,7 +35,7 @@ Life / Personal
 
 ### Fun 
 
-- [My photography (in progress, migrating to a new venue)](photography.md)
+- [My photography website](https://www.kisaev.com/)
 - [My take on cancer on Statistically Insignificant's podcast](https://bioeconometrician.github.io/sipod_karin/)
 - [Sagrada Board Game Quick Score Calculator](https://karini925.github.io/Sagrada-Score-Calculator/)
 
