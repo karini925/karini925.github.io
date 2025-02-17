@@ -35,9 +35,9 @@ Life / Personal
 
 ### Fun 
 
-- [My photography website](https://www.kisaev.com/)
+- [My photography website](https://www.kisaev.com/) // I love taking photos with my film camera, I am very much an amateur but love capturing genuine moments via portraits. 
 - [My take on cancer on Statistically Insignificant's podcast](https://bioeconometrician.github.io/sipod_karin/)
-- [Sagrada Board Game Quick Score Calculator](https://karini925.github.io/Sagrada-Score-Calculator/)
+- [Sagrada Board Game Quick Score Calculator](https://karini925.github.io/Sagrada-Score-Calculator/) // I got this game for my family over the holidays and wanted a quick way to calculate the score at the end, was a fun little project. 
 
 ---
 
