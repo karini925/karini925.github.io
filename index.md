@@ -23,7 +23,7 @@
 ### Blog 
 Science related
 - [From Linear Regression to Variational Inference](https://dramatic-napkin-b57.notion.site/Variational-inference-tutorial-03d7220759f14627989a8f7b8ad1b0ec) (Feb, 2024 *note: still editing*)
-- [A paper a week challenge](https://geekygenomics.substack.com/)(*coming soon...*)
+- [Unlocking the biology of aging: What we know and where the industry seems to be heading](https://open.substack.com/pub/geekygenomics/p/unlocking-the-biology-of-aging?r=1iuk6t&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) (February, 2025)
 
 Life / Personal 
 - [Pandemic memories](https://medium.com/@lostanonym/life-as-we-knew-it-140a4c68d58a) (March, 2020)
