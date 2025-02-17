@@ -16,10 +16,6 @@
 
 ---
 
-### Teaching 
-
----
-
 ### Blog 
 Science related
 - [From Linear Regression to Variational Inference](https://dramatic-napkin-b57.notion.site/Variational-inference-tutorial-03d7220759f14627989a8f7b8ad1b0ec) (Feb, 2024 *note: still editing*)
