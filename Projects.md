@@ -1,10 +1,8 @@
 # RNA splicing projects in the Knowles lab 
 
-We just released a new R package called Isoviz that allows users to clearly visualize splice junctions across transcript isoforms expressed in their cell line of interest. Several visualizations are available as well as a function to design gRNA sequences to target junctions of interest with CRISPR/Cas13 using our lab's deep learning model [TIGER](https://www.nature.com/articles/s41587-023-01830-8). 
-
-### Isoviz R package 
-
-[https://github.com/daklab/isoviz](https://github.com/daklab/isoviz). A more in depth tutorial to come! Find the pre-print [here]().  
+1. My first python package LeafletSC is available on [github](https://github.com/daklab/LeafletSC/tree/main). LeafletSC is a binomial mixture model designed for the analysis of alternative splicing events in single-cell RNA sequencing data. It relies on splice junction counts to infer meaningful cell populations driven by splicing differences.
+2. We released a new R package called Isoviz that allows users to clearly visualize splice junctions across transcript isoforms expressed in their cell line of interest. Several visualizations are available as well as a function to design gRNA sequences to target junctions of interest with CRISPR/Cas13 using our lab's deep learning model [TIGER](https://www.nature.com/articles/s41587-023-01830-8). The Isoviz R package is available on [github](https://github.com/daklab/isoviz). Find the pre-print [here]().
+3. IsovizPY coming soon! 
 
 # Course projects @ Columbia PhD program 
 
