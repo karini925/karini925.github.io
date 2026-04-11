@@ -4,8 +4,8 @@ layout: default
 
 ## Research
 
-- [Experience](Experience) — Computational biology, RNA splicing, lymphoma genomics
-- [Projects](Projects) — LeafletSC, Isoviz, and more
+- [Experience](Experience) — Computational biology, RNA splicing, machine learning, foundation models
+- [Projects](Projects) — LeafletFA, SpliceVI, and more
 - [Presentations](Presentations) — Conference talks
 - [Publications](https://scholar.google.ca/citations?hl=en&user=q5Hzub8AAAAJ&view_op=list_works&gmla=AJsN-F7Ww91657WqQMFZkjErV-KoSTYNNChzOplXUi3FDtmZyf7dQ1ibSJ5NFxzzaXRYHr9iwfBH_eTovv9vnjfDvyCWcn0-Z97ViwNRuGLV8NsNWtAVHtI) — Google Scholar
 
@@ -15,12 +15,7 @@ layout: default
 
 [Geeky Genomics](https://geekygenomics.substack.com/) — my Substack on genomics, biology, and science
 
-- [Unlocking the biology of aging: What we know and where the industry seems to be heading](https://open.substack.com/pub/geekygenomics/p/unlocking-the-biology-of-aging?r=1iuk6t&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) (Feb 2025)
-
-[Pioneer Labs Substack](https://pioneerlabs.substack.com/) — contributed writing on functional genomics and ML for biology:
-
-- [Decoding biology with functional genomics](https://pioneerlabs.substack.com/p/decoding-biology-with-functional) (Pioneer Labs, 2025)
-- [From Linear Regression to Variational Inference](https://dramatic-napkin-b57.notion.site/Variational-inference-tutorial-03d7220759f14627989a8f7b8ad1b0ec) (Feb 2024 — *still editing*)
+[Decoding biology with functional genomics](https://pioneerlabs.substack.com/p/decoding-biology-with-functional) (Pioneer Labs, 2025)
 
 Personal essays on Medium:
 - [Goodbye 2024](https://medium.com/@lostanonym/goodbye-2024-29a0fc3164ae) (Dec 2024)
