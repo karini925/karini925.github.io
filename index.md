@@ -16,6 +16,10 @@ layout: default
 [Geeky Genomics](https://geekygenomics.substack.com/) — my Substack on genomics, biology, and science
 
 - [Unlocking the biology of aging: What we know and where the industry seems to be heading](https://open.substack.com/pub/geekygenomics/p/unlocking-the-biology-of-aging?r=1iuk6t&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) (Feb 2025)
+
+[Pioneer Labs Substack](https://pioneerlabs.substack.com/) — contributed writing on functional genomics and ML for biology:
+
+- [Decoding biology with functional genomics](https://pioneerlabs.substack.com/p/decoding-biology-with-functional) (Pioneer Labs, 2025)
 - [From Linear Regression to Variational Inference](https://dramatic-napkin-b57.notion.site/Variational-inference-tutorial-03d7220759f14627989a8f7b8ad1b0ec) (Feb 2024 — *still editing*)
 
 Personal essays on Medium:
