@@ -5,8 +5,7 @@ title: Experience
 
 ## Experience
 
-I am a computational biologist who loves building things. My expertise is using machine learning to dig into hard problems in biology, making it possible to iterate faster and actually use the mountains of data that already exist to better understand these insanely complex processes.
-
+I am a computational biologist and machine learning researcher. My background spans cancer genomics, RNA biology, and protein engineering. 
 ---
 
 ### Data Scientist, Computational Biology
@@ -21,11 +20,11 @@ I helped design and analyze a fitness benchmark spanning 45K donor genes from 11
 ### PhD, Systems Biology
 **[Knowles Lab](https://daklab.github.io/), Columbia University** &nbsp;&middot;&nbsp; 2021 – 2025
 
-My thesis was on alternative splicing, the process by which a single gene can produce different protein isoforms depending on cell type, age, or disease state. It is an underexplored axis of cellular variation, partly because the data is sparse and the models to analyze it did not really exist yet. I built them.
+My thesis was on alternative splicing, the process by which different combinations of exons are included or excluded from the final mRNA, affecting protein function, localization, or whether a functional protein is produced at all. It is an underexplored axis of cellular variation, partly because the data is sparse and the computational methods to analyze it at scale were limited.
 
 - **[LeafletFA](https://github.com/daklab/leaflet)** is a Bayesian factor model for atlas-scale splicing analysis. I compiled the largest single-cell alternative splicing dataset in mouse and human, then developed this model to apply to the data and learn splicing programs shared across tissues and species. The manuscript is under review at *Nature Aging*.
-- **SpliceVI** is a joint generative model for single-cell splicing and gene expression using variational inference, designed to disentangle the two signals simultaneously.
-- **[LeafletSC](https://github.com/daklab/LeafletSC)** is a Python package for single-cell alternative splicing analysis using binomial mixture models, built to be usable by researchers without a probabilistic modeling background.
+- **[SpliceVI](https://github.com/daklab/SpliceVI)** is a joint generative model for single-cell splicing and gene expression using variational inference, designed to disentangle the two signals simultaneously.
+- **[LeafletSC](https://github.com/daklab/LeafletSC)** is a Python package for single-cell alternative splicing analysis using binomial mixture models.
 - **[Isoviz](https://github.com/karini925/isoviz)** is an R package for visualizing splice junctions across transcript isoforms, built because I needed it and nothing good existed.
 - I presented this work at MLCB 2023 in Seattle: *Investigating RNA splicing as a source of cellular diversity using a binomial mixture model*
 
@@ -34,21 +33,17 @@ My thesis was on alternative splicing, the process by which a single gene can pr
 ### PhD Intern, Molecular Profiling Data Science
 **Regeneron Pharmaceuticals** &nbsp;&middot;&nbsp; June 2024 – August 2024
 
-I spent the summer working on single-cell RNA-seq at a scale that requires you to rethink your tooling entirely. The question was: how do you characterize immune response variation across millions of cells and multiple treatment conditions without the analysis becoming the bottleneck?
+I spent the summer at Regeneron working on single-cell RNA-seq across millions of cells and multiple treatment conditions, characterizing immune response variation at scale.
 
-- I used GPU-accelerated frameworks (RAPIDS, PyTorch) alongside scVI and NMF-Autoencoders to make dimensionality reduction and feature extraction tractable at that scale.
-- I built statistical scoring frameworks to identify which genes were driving latent factors and how those factors shifted across treatments, surfacing pathway-level immune response differences at single-cell resolution.
+- I used GPU-accelerated frameworks (RAPIDS, PyTorch) alongside scVI and an in-house NMF-Autoencoder model I helped develop, to make dimensionality reduction and feature extraction tractable at that scale.
+
 
 ---
 
 ### Computational Biologist
 **[Kridel Lab](https://kridel-lab.com/)**, UHN Princess Margaret Cancer Centre, Toronto &nbsp;&middot;&nbsp; May 2019 – July 2021
 
-This is where I learned to do genomics on real clinical questions. The lab studied lymphoma, and the work ranged from understanding why certain drug combinations work, to reconstructing how a patient's tumor evolved over time and across sites in the body.
-
-- I integrated RNA-seq, ChIP-seq, and genome-wide CRISPR screening data to understand why an epigenetic inhibitor combination showed synergistic effects in lymphoma cell lines. That analysis contributed to a publication in *Clinical Cancer Research* (2021).
-- I led the computational analysis for a study on relapse in diffuse large B-cell lymphoma, using variant calling and Bayesian clonal phylogeny reconstruction across spatially-separated, multi-timepoint tumor samples. Published in *Haematologica* (2021, 2022).
-- I built [NHL-ASCT-PI](https://lymphoma.shinyapps.io/NHL-ASCT-PI/), a Shiny web app for patient risk modeling that integrates clinical variables and pretransplant PET imaging to help clinicians assess transplant outcomes. Published in *Blood Advances* (2020).
+A lymphoma research lab at UHN. I did multi-omic integration across RNA-seq, ChIP-seq, and CRISPR screens ([*Clinical Cancer Research*, 2021](https://aacrjournals.org/clincancerres/article-abstract/27/19/5401/671692/Combined-EZH2-Inhibition-and-IKAROS-Degradation)), led clonal evolution analyses across multi-timepoint tumor samples ([*Haematologica*, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8094129/); [2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9827161/)), and built [NHL-ASCT-PI](https://lymphoma.shinyapps.io/NHL-ASCT-PI/), a clinical risk modeling app for transplant outcome prediction ([*Blood Advances*, 2020](https://ashpublications.org/bloodadvances/article/4/22/5762/474205/)).
 
 ---
 
