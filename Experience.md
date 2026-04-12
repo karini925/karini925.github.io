@@ -5,18 +5,29 @@ title: Experience
 
 ## Experience
 
-I am a computational biologist who builds things. My background spans cancer genomics, RNA biology, and protein engineering, and what ties it all together is a love of using large, messy biological datasets to answer questions that matter. I am equally at home reading a paper on splicing mechanisms and debugging a GPU-accelerated pipeline.
+I am a computational biologist who loves building things. My expertise is using machine learning to dig into hard problems in biology, making it possible to iterate faster and actually use the mountains of data that already exist to better understand these insanely complex processes.
 
 ---
 
 ### Data Scientist, Computational Biology
 **[Pioneer Labs](https://www.pioneer-labs.org/#mission)** &nbsp;&middot;&nbsp; August 2025 – Present
 
-Pioneer Labs is a biotech working on one of the hardest problems in synthetic biology: predicting how genes from one organism will behave when transferred to another. I work on the machine learning side of that, building the models and infrastructure that turn high-throughput experimental data into predictive signal.
+Pioneer Labs is a non-profit engineering microbes for Mars, tackling one of the hardest problems in synthetic biology: predicting how genes from one organism will behave when transferred to another. I work on the machine learning side, building models and infrastructure that turn high-throughput experimental data into predictive signal.
 
-- To understand which genes are most likely to transfer successfully across species, I coordinated the design and computational analysis of a benchmark spanning 500K fitness measurements across 45K donor genes from 11 diverse microbial species. This is the kind of dataset that does not exist anywhere else, and building it required close collaboration with wet-lab scientists from the start.
-- I evaluated protein language models (ESM2, Profluent E1) as a way to represent gene sequences for fitness prediction, comparing them against simpler sequence-identity baselines. Fine-tuning with LoRA gave meaningful accuracy gains over frozen embeddings, which pointed to how much task-specific signal these models were leaving on the table.
-- To keep up with experimental throughput, I built end-to-end pipelines on AWS Batch and Nextflow for processing barcoded sequencing data at scale across large microbial libraries.
+I helped design and analyze a fitness benchmark spanning 45K donor genes from 11 microbial species, working closely with the wet lab team. The core question was whether protein language model embeddings (ESM2, Profluent E1) capture more useful signal than simple sequence identity for predicting which genes transfer successfully.
+
+---
+
+### PhD, Systems Biology
+**[Knowles Lab](https://daklab.github.io/), Columbia University** &nbsp;&middot;&nbsp; 2021 – 2025
+
+My thesis was on alternative splicing, the process by which a single gene can produce different protein isoforms depending on cell type, age, or disease state. It is an underexplored axis of cellular variation, partly because the data is sparse and the models to analyze it did not really exist yet. I built them.
+
+- **[LeafletFA](https://github.com/daklab/leaflet)** is a Bayesian factor model for atlas-scale splicing analysis. I compiled the largest single-cell alternative splicing dataset in mouse and human, then developed this model to apply to the data and learn splicing programs shared across tissues and species. The manuscript is under review at *Nature Aging*.
+- **SpliceVI** is a joint generative model for single-cell splicing and gene expression using variational inference, designed to disentangle the two signals simultaneously.
+- **[LeafletSC](https://github.com/daklab/LeafletSC)** is a Python package for single-cell alternative splicing analysis using binomial mixture models, built to be usable by researchers without a probabilistic modeling background.
+- **[Isoviz](https://github.com/karini925/isoviz)** is an R package for visualizing splice junctions across transcript isoforms, built because I needed it and nothing good existed.
+- I presented this work at MLCB 2023 in Seattle: *Investigating RNA splicing as a source of cellular diversity using a binomial mixture model*
 
 ---
 
@@ -27,19 +38,6 @@ I spent the summer working on single-cell RNA-seq at a scale that requires you t
 
 - I used GPU-accelerated frameworks (RAPIDS, PyTorch) alongside scVI and NMF-Autoencoders to make dimensionality reduction and feature extraction tractable at that scale.
 - I built statistical scoring frameworks to identify which genes were driving latent factors and how those factors shifted across treatments, surfacing pathway-level immune response differences at single-cell resolution.
-
----
-
-### PhD, Systems Biology
-**[Knowles Lab](https://daklab.github.io/), Columbia University** &nbsp;&middot;&nbsp; 2021 – 2025
-
-My thesis was on alternative splicing, the process by which a single gene can produce different protein isoforms depending on cell type, age, or disease state. It is an underexplored axis of cellular variation, partly because the data is sparse and the models to analyze it did not really exist yet. I built them.
-
-- **[LeafletFA](https://github.com/daklab/leaflet)** is a Bayesian factor model for atlas-scale splicing analysis. I applied it to multisample Smart-seq2 datasets to identify conserved age-associated splicing programs shared across mouse and human tissues. The manuscript is under review at *Nature Aging*.
-- **SpliceVI** is a joint generative model for single-cell splicing and gene expression using variational inference, designed to disentangle the two signals simultaneously.
-- **[LeafletSC](https://github.com/daklab/LeafletSC)** is a Python package for single-cell alternative splicing analysis using binomial mixture models, built to be usable by researchers without a probabilistic modeling background.
-- **[Isoviz](https://github.com/karini925/isoviz)** is an R package for visualizing splice junctions across transcript isoforms, built because I needed it and nothing good existed.
-- I presented this work at MLCB 2023 in Seattle: *Investigating RNA splicing as a source of cellular diversity using a binomial mixture model*
 
 ---
 

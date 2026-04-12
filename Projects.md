@@ -6,7 +6,7 @@
 
 **Fitness prediction for horizontal gene transfer** (2025 – present)
 
-Led a benchmark of 500K barcoded fitness measurements across 45K donor genes from 11 phylogenetically diverse species. Built end-to-end production pipelines on AWS Batch and Nextflow. Benchmarked ESM2 and Profluent E1 protein language model embeddings against sequence-identity baselines, with LoRA fine-tuning yielding clear accuracy gains over frozen representations.
+Using protein language models to predict how extremophile proteins will function when transferred into E. coli hosts. Benchmarking ESM2 and Profluent embeddings to understand which best captures novel biology.
 
 ---
 
