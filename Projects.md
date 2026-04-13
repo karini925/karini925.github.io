@@ -6,7 +6,7 @@
 
 **Fitness prediction for horizontal gene transfer** (2025 – present)
 
-Using protein language models to predict how extremophile proteins will function when transferred into E. coli hosts. Benchmarking ESM2 and Profluent embeddings to understand which best captures novel biology.
+Using protein language models to predict how extremophile proteins will function when transferred into E. coli hosts. Benchmarking ESM2 and Profluent embeddings to understand which best captures novel biology. Developed a Bayesian probabilistic linear mixed model to infer gene fitness effects from noisy replicate data.
 
 ---
 

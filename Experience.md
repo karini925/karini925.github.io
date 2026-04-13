@@ -43,7 +43,7 @@ I spent the summer at Regeneron working on single-cell RNA-seq across millions o
 ### Computational Biologist
 **[Kridel Lab](https://kridel-lab.com/)**, UHN Princess Margaret Cancer Centre, Toronto &nbsp;&middot;&nbsp; May 2019 – July 2021
 
-A lymphoma research lab at UHN. I did multi-omic integration across RNA-seq, ChIP-seq, and CRISPR screens ([*Clinical Cancer Research*, 2021](https://aacrjournals.org/clincancerres/article-abstract/27/19/5401/671692/Combined-EZH2-Inhibition-and-IKAROS-Degradation)), led clonal evolution analyses across multi-timepoint tumor samples ([*Haematologica*, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8094129/); [2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9827161/)), and built [NHL-ASCT-PI](https://lymphoma.shinyapps.io/NHL-ASCT-PI/), a clinical risk modeling app for transplant outcome prediction ([*Blood Advances*, 2020](https://ashpublications.org/bloodadvances/article/4/22/5762/474205/)).
+A lymphoma research lab at UHN. I did multi-omic integration across RNA-seq, ChIP-seq, and CRISPR screens ([*Clinical Cancer Research*, 2021](https://aacrjournals.org/clincancerres/article-abstract/27/19/5401/671692/Combined-EZH2-Inhibition-and-IKAROS-Degradation)), led clonal evolution analyses across multi-timepoint tumor samples ([*Haematologica*, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8094129/); [2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9827161/)), and contributed computational and statistical analysis to [NHL-ASCT-PI](https://lymphoma.shinyapps.io/NHL-ASCT-PI/), a clinical risk stratification model integrating clinical factors and pretransplant PET imaging for transplant outcome prediction ([*Blood Advances*, 2020](https://ashpublications.org/bloodadvances/article/4/22/5762/474205/)).
 
 ---
 
