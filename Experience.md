@@ -48,7 +48,7 @@ A lymphoma research lab at UHN. I did multi-omic integration across RNA-seq, ChI
 
 ## On science and how I work
 
-I care a lot about honesty in research. Things do not always work, results are often ambiguous, and mistakes happen. Being able to talk about that openly, without fear, is something I think matters a lot. The most exciting science tends to live at the boundary between the risky and the safe, and you cannot get there if you are only willing to report the clean results.
+Honesty in research matters deeply to me. Things do not always work, results are often ambiguous, and mistakes happen. Being able to talk about that openly, without fear, matters. The most exciting science tends to live at the boundary between the risky and the safe, and we cannot get there if only the clean results get talked about.
 
 Mentorship matters to me too. I grew up idolizing professors without realizing I could question them, and that took a while to unlearn. Now I try to make that easier for people earlier in their careers, by being someone they can push back on and learn alongside rather than defer to. I am always working to grow as a leader and collaborator, and find some of the best learning comes from working closely with people outside my own area of expertise.
 
