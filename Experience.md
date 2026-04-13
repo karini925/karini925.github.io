@@ -5,7 +5,6 @@ title: Experience
 
 ## Experience
 
-I am a computational biologist and machine learning researcher. My background spans cancer genomics, RNA biology, and protein engineering. 
 ---
 
 ### Data Scientist, Computational Biology
