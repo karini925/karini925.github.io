@@ -17,6 +17,8 @@ layout: default
 
 [Decoding biology with functional genomics](https://pioneerlabs.substack.com/p/decoding-biology-with-functional) (Pioneer Labs, 2025)
 
+[The evolving future of plastic waste](http://www.phdish.com/blog/the-evolving-future-of-plastic-waste-1) — article on plastic-eating bacteria for Columbia's science magazine PhDish
+
 Personal essays on Medium:
 - [Goodbye 2024](https://medium.com/@lostanonym/goodbye-2024-29a0fc3164ae) (Dec 2024)
 - [A personal review of 2022](https://medium.com/@lostanonym/a-personal-review-of-2022-65c4dea2529f) (Dec 2022)

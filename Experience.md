@@ -21,11 +21,10 @@ I helped design and analyze a fitness benchmark spanning 45K donor genes from 11
 
 My thesis was on alternative splicing, the process by which different combinations of exons are included or excluded from the final mRNA, affecting protein function, localization, or whether a functional protein is produced at all. It is an underexplored axis of cellular variation, partly because the data is sparse and the computational methods to analyze it at scale were limited.
 
-- **[LeafletFA](https://github.com/daklab/leaflet)** is a Bayesian factor model for atlas-scale splicing analysis. I compiled the largest single-cell alternative splicing dataset in mouse and human, then developed this model to apply to the data and learn splicing programs shared across tissues and species. The manuscript is under review at *Nature Aging*.
+- **[LeafletFA](https://github.com/daklab/leaflet)** is a Bayesian factor model for atlas-scale splicing analysis. I compiled the largest single-cell alternative splicing dataset in mouse and human, then developed this model to apply to the data and learn splicing programs shared across tissues and species.
 - **[SpliceVI](https://github.com/daklab/SpliceVI)** is a joint generative model for single-cell splicing and gene expression using variational inference, designed to disentangle the two signals simultaneously.
 - **[LeafletSC](https://github.com/daklab/LeafletSC)** is a Python package for single-cell alternative splicing analysis using binomial mixture models.
 - **[Isoviz](https://github.com/karini925/isoviz)** is an R package for visualizing splice junctions across transcript isoforms, built because I needed it and nothing good existed.
-- I presented this work at MLCB 2023 in Seattle: *Investigating RNA splicing as a source of cellular diversity using a binomial mixture model*
 
 ---
 
@@ -48,9 +47,9 @@ A lymphoma research lab at UHN. I did multi-omic integration across RNA-seq, ChI
 
 ## On science and how I work
 
-Honesty in research matters deeply to me. Things do not always work, results are often ambiguous, and mistakes happen. Being able to talk about that openly, without fear, matters a lot to me. The most exciting science tends to live at the boundary between the risky and the safe, and we cannot get there if only the clean results get talked about.
+Things do not always work, results are often ambiguous, and mistakes happen. Being able to talk about that openly, without fear, matters a lot to me. The most exciting science tends to live at the boundary between the risky and the safe, and we cannot get there if only the clean results get talked about.
 
-Mentorship matters to me too. I grew up idolizing professors without realizing I could question them, and that took a while to unlearn. Now I try to make that easier for people earlier in their careers, by being someone they can push back on and learn alongside rather than defer to. I am always working to grow as a leader and collaborator, and find some of the best learning comes from working closely with people outside my own area of expertise.
+Mentorship is really important to me as well. I grew up idolizing professors without realizing I could question them, and that took a while to unlearn. Now I try to make that easier for people earlier in their careers, by being someone they can push back on and learn alongside rather than defer to. I am always working to grow as a leader and collaborator, and find some of the best learning comes from working closely with people outside my own area of expertise.
 
 ---
 
