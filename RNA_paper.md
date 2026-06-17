@@ -1,3 +1,8 @@
+---
+layout: default
+title: RNA Origins of the Catalytic Core
+---
+
 ## RNA Origins of the Catalytic Core: A Journey Through Time to Understand the Spliceosome
 
 This is an essay I wrote for my class: The Ancient and Modern RNA Worlds, taught by Dr. Laura Landweber at Columbia University. 
