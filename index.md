@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Computational Biology & ML for Human Genetics
+description: Karin Isaev is a computational biologist and machine learning researcher at Radical Numerics, applying AI to human genetics, rare disease, and complex disease. Background in cancer genomics, RNA biology, and protein engineering.
 ---
 
 ## Research
