@@ -19,7 +19,7 @@ layout: default
 
 [Decoding biology with functional genomics](https://pioneerlabs.substack.com/p/decoding-biology-with-functional) (Pioneer Labs, 2025)
 
-[RNA Origins of the Catalytic Core](RNA_paper) — essay on the spliceosome's RNA origins, written for The Ancient and Modern RNA Worlds (Columbia University)
+[RNA Origins of the Catalytic Core](RNA_paper) — essay on the spliceosome's RNA origins, written for The Ancient and Modern RNA Worlds (Columbia University, 2023)
 
 [The evolving future of plastic waste](http://www.phdish.com/blog/the-evolving-future-of-plastic-waste-1) — article on plastic-eating bacteria for Columbia's science magazine PhDish (2022)
 
