@@ -7,10 +7,19 @@ title: Experience
 
 ---
 
-### Data Scientist, Computational Biology
-**[Pioneer Labs](https://www.pioneer-labs.org/#mission)** &nbsp;&middot;&nbsp; August 2025 – Present
+### Member of Technical Staff, Biology
+**[Radical Numerics](https://www.radicalnumerics.ai)** &nbsp;&middot;&nbsp; June 2026 – Present
 
-Pioneer Labs is a non-profit engineering microbes for Mars, tackling one of the hardest problems in synthetic biology: predicting how genes from one organism will behave when transferred to another. I work on the machine learning side, building models and infrastructure that turn high-throughput experimental data into predictive signal.
+I work on applying our models to human biology, including rare disease, the genetics of complex disease, and other human genetics applications.
+
+Read more about my work in our [human genetics blog post](https://www.radicalnumerics.ai/blog/omnii-genetics), part of the Omnii-1 release.
+
+---
+
+### Data Scientist, Computational Biology
+**[Pioneer Labs](https://www.pioneer-labs.org/#mission)** &nbsp;&middot;&nbsp; August 2025 – June 2026
+
+Pioneer Labs is a non-profit engineering microbes for Mars, tackling one of the hardest problems in synthetic biology: predicting how genes from one organism will behave when transferred to another. I worked on the machine learning side, building models and infrastructure that turn high-throughput experimental data into predictive signal.
 
 I helped design and analyze a fitness benchmark spanning 45K donor genes from 11 microbial species, working closely with the wet lab team. The core question was whether protein language model embeddings (ESM2, Profluent E1) capture more useful signal than simple sequence identity for predicting which genes transfer successfully.
 

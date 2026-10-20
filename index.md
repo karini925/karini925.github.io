@@ -15,11 +15,13 @@ layout: default
 
 [Geeky Genomics](https://geekygenomics.substack.com/) — my Substack on genomics, biology, and science
 
-[RNA Origins of the Catalytic Core](RNA_paper) — essay on the spliceosome's RNA origins, written for The Ancient and Modern RNA Worlds (Columbia University)
+[Applying Omnii-1 across the genetic architecture of human disease](https://www.radicalnumerics.ai/blog/omnii-genetics) (Radical Numerics, 2026)
 
 [Decoding biology with functional genomics](https://pioneerlabs.substack.com/p/decoding-biology-with-functional) (Pioneer Labs, 2025)
 
-[The evolving future of plastic waste](http://www.phdish.com/blog/the-evolving-future-of-plastic-waste-1) — article on plastic-eating bacteria for Columbia's science magazine PhDish
+[RNA Origins of the Catalytic Core](RNA_paper) — essay on the spliceosome's RNA origins, written for The Ancient and Modern RNA Worlds (Columbia University)
+
+[The evolving future of plastic waste](http://www.phdish.com/blog/the-evolving-future-of-plastic-waste-1) — article on plastic-eating bacteria for Columbia's science magazine PhDish (2022)
 
 Personal essays on Medium:
 - [Goodbye 2024](https://medium.com/@lostanonym/goodbye-2024-29a0fc3164ae) (Dec 2024)
