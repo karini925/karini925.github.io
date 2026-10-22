@@ -17,9 +17,9 @@ description: Karin Isaev is a computational biologist and machine learning resea
 
 [Geeky Genomics](https://geekygenomics.substack.com/) — my Substack on genomics, biology, and science
 
-[Applying Omnii-1 across the genetic architecture of human disease](https://www.radicalnumerics.ai/blog/omnii-genetics) (Radical Numerics, 2026)
+[Applying Omnii-1 across the genetic architecture of human disease](https://www.radicalnumerics.ai/blog/omnii-genetics) — using our genome language model to pinpoint disease-causing variants, from rare disease to complex disease (Radical Numerics, 2026)
 
-[Decoding biology with functional genomics](https://pioneerlabs.substack.com/p/decoding-biology-with-functional) (Pioneer Labs, 2025)
+[Decoding biology with functional genomics](https://pioneerlabs.substack.com/p/decoding-biology-with-functional) — how we measure the fitness effects of thousands of genes at once in microbes (Pioneer Labs, 2025)
 
 [RNA Origins of the Catalytic Core](RNA_paper) — essay on the spliceosome's RNA origins, written for The Ancient and Modern RNA Worlds (Columbia University, 2023)
 
